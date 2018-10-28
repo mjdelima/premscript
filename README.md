@@ -81,11 +81,5 @@ Premium autoscript installer used to install SSH, STUNNEL, OVPN, and PPTP VPN on
 ### Credits:
 
 Hosting Termurah & VPS-Murah
-
-
-
-
-
-
-
 Created by 0123456
+Fork By: mjdelima
